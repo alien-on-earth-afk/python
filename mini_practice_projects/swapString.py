@@ -1,3 +1,5 @@
+
+
 def swap_case(s):
     sword = ""
     for i in s:
