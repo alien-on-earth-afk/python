@@ -9,3 +9,4 @@ for i in range(r):
         pattern = '.|.' * (2 * (r - i - 1) + 1)
     
     print(pattern.center(c, '-'))
+ 
