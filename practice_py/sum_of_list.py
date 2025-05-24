@@ -7,3 +7,4 @@ for i in l:
         total += int(i)
 
 print(total)
+
