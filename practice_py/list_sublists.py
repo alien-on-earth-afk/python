@@ -12,11 +12,12 @@ def subl(lst):
         sublist.extend(curr)
 
     return sublist
-    
-    
-    
+
+
 lst = input("Enter the list: ").split()
 
 
 print("Sublists: ")
 print(subl(lst))
+
+    

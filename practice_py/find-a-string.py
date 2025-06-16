@@ -14,5 +14,4 @@ if __name__ == '__main__':
     print(count)
 
 
-    #count = string.count(sub_string)
-    #print(count)
+    count = string.count(sub_string)
